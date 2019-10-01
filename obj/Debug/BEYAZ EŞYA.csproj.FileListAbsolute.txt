@@ -1,0 +1,46 @@
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\bin\Debug\BEYAZ EŞYA.exe.config
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\bin\Debug\BEYAZ EŞYA.exe
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\bin\Debug\BEYAZ EŞYA.pdb
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.Properties.Resources.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ EŞYA.csproj.GenerateResource.Cache
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ EŞYA.csproj.CoreCompileInputs.cache
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ EŞYA.exe
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ EŞYA.pdb
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.sifreunuttum.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.giris.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.anaekran.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.ekle.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.haberler.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.satıs.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.musterı.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.stokara.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ EŞYA.csproj.ResolveComReference.cache
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.yazdır.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.guncelle_sıl.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.barkod.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ EŞYA.csprojResolveAssemblyReference.cache
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.toplamsatis.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ EŞYA.csprojResolveAssemblyReference.cache
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ EŞYA.csproj.ResolveComReference.cache
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.anaekran.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.barkod.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.ekle.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.giris.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.guncelle_sıl.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.haberler.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.musterı.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.Properties.Resources.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.satıs.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.sifreunuttum.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.stokara.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.toplamsatis.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ_EŞYA.yazdır.resources
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ EŞYA.csproj.GenerateResource.Cache
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ EŞYA.csproj.CoreCompileInputs.cache
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ EŞYA.exe
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\obj\Debug\BEYAZ EŞYA.pdb
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\bin\Debug\BEYAZ EŞYA.exe.config
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\bin\Debug\BEYAZ EŞYA.exe
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\bin\Debug\BEYAZ EŞYA.pdb
+C:\Users\EMİRCAN\Desktop\BEYAZ EŞYA MYSQL\BEYAZ EŞYA\BEYAZ EŞYA\bin\Debug\Zen.Barcode.Core.dll
